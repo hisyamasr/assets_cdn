@@ -33,27 +33,3 @@
     left: 45%;
     top: 45%;
   }
-  .dataTables_wrapper .dataTables_paginate .paginate_button:active{
-    background: none;
-    border : none;
-  }
-  .dataTables_wrapper .dataTables_paginate .paginate_button:hover{
-    background: none;
-    border : none;
-  }
-    .dataTables_wrapper .dataTables_paginate .paginate_button{
-    background: none;
-    border : none;
-  }
-  table.dataTable thead .sorting:before {
-    content: none;
-  }
-  table.dataTable thead .sorting:after{
-    content: none;
-  }
-  table.dataTable thead .sorting_asc{
-    background-image: none;
-  }
-  table.dataTable thead .sorting_desc{
-    background-image: none;
-  }
