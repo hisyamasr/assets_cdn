@@ -112,6 +112,6 @@ table.dataTable thead .sorting_desc_disabled:after {
   content: "" !important;
 }
 
-.bs-select>select{
-  display: block !important;
+div.dataTables_wrapper div.dataTables_length select{
+  display: inline-block !important;
 }
